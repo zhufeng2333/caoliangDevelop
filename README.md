@@ -32,8 +32,6 @@ Flutter是完整的UI套件，可让开发人员以最佳的版式，图标和�
 
    自带的高性能渲染引擎（Skia）进行自绘，渲染速度和用户体验堪比原生。 
 
-    ![640?wx_fmt=png](https://ss.csdn.net/p?https://mmbiz.qpic.cn/mmbiz_png/gQOwib4zALd3IUWibibaynTI8zEXPKiawfOPzG8q5ktk1smfmbe5fldsvpys2fMZfzezUcQ8icMBtym9eXFicL9EglRw/640?wx_fmt=png) 
-
 4. 现代的响应式框架
 
    使用Flutter的现代、响应式框架，和一系列基础widget，轻松构建您的用户界面。使用功能强大且灵活的API（针对2D、动画、手势、效果等）解决艰难的UI挑战。    
