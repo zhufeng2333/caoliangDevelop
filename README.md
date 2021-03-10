@@ -7,7 +7,9 @@ Flutter是Google推出的一种开源软件开发工具包（SDK），可通过�
 
 Flutter是完整的UI套件，可让开发人员以最佳的版式，图标和滚动行为来开发大规模应用程序。
 
-受欢迎程度：![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9BME8yUW1PZnhCbWFuQ2VKbXZmYklXTmQzTjFmcjFCQkNhWXpIckdacWpjWlE0U0FzZVRJb1Y3dDRpYnAxZUgwNVB0N2U5bmMyYUJJbEo2dkcxb3k5WUEvNjQw?x-oss-process=image/format,png) 
+受欢迎程度：
+
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9BME8yUW1PZnhCbWFuQ2VKbXZmYklXTmQzTjFmcjFCQkNhWXpIckdacWpjWlE0U0FzZVRJb1Y3dDRpYnAxZUgwNVB0N2U5bmMyYUJJbEo2dkcxb3k5WUEvNjQw?x-oss-process=image/format,png) 
 
 ## 二、Flutter的特点有哪些？
 
@@ -26,9 +28,11 @@ Flutter是完整的UI套件，可让开发人员以最佳的版式，图标和�
 
    Flutter 的系统架构包含大量赏心悦目、快速、可定制、可扩展的 Widgets。 
 
-3.  性能优越
+3. 性能优越
 
    自带的高性能渲染引擎（Skia）进行自绘，渲染速度和用户体验堪比原生。 
+
+    ![640?wx_fmt=png](https://ss.csdn.net/p?https://mmbiz.qpic.cn/mmbiz_png/gQOwib4zALd3IUWibibaynTI8zEXPKiawfOPzG8q5ktk1smfmbe5fldsvpys2fMZfzezUcQ8icMBtym9eXFicL9EglRw/640?wx_fmt=png) 
 
 4. 现代的响应式框架
 
